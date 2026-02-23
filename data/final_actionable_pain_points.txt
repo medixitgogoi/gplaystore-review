@@ -1,0 +1,94 @@
+
+ [INST]
+Below are extracted product issues.
+
+Merge duplicates.
+Keep only unique actionable issues.
+Return final structured output in same format:
+
+Problem:
+User Impact:
+Suggested Fix:
+Severity:
+
+
+ [INST]
+You are a senior product manager.
+
+Analyze the negative user reviews below.
+
+Extract recurring issues that can be fixed.
+
+For each issue provide:
+
+Problem:
+User Impact:
+Suggested Fix:
+Severity: High / Medium / Low
+
+Be concise. No fluff.
+
+Reviews:
+very bad 😞 the worst game I have ever played. this game is the worst game .it contains a lot of ads so far I really like this app, I can deeply plan without one of those task limits and there are a ton of resources however, and I can't get it to pop up again, I wanted to make this review because of some wording that caught my eye, the app offered me to check out premium and the decline said something along the line of "I'm just gonna give up" as someone who struggles with mental health, that is sickening to see you try and guilt trip people to pay for premium with that wording. I continue to request that I don't receive regular text.Could you stop why couldn't you stop this is the worst not so bad but yeah the worst I wanted to use the app, but it was going to cost me money and I dont want to do that and makes me feel more stressed maybe they could get ride of the money cost this app is very bad 👎 fraud Very cluttered stressful interface. hard to tell whats paid until after you try to do something App is okay - you set a reminder, it sends you a reminder. Look at the reviews. The average is apparently 4.8 but nearly all recent reviews are 1 or 2 stars. I regularly use trials and cancel them if not wanted. Went in to look at this one and I didn't even have an account. No cancellation options. Auto generated responses from customer services so I've paid £40 I didn't want to. I know that's my own stupid mistake but I've never known an app so difficult before. I can't recommend sadly. Way too damn expensive for fake profiles and bots Don't waste your time. don't install it its not free of cost its only requir money not your trust Can't Cancel Account -Tricked/Fraud I'm not sure what else to say. I tried the app. I couldn't use it. I didn't understand it. I tried to cancel. One year later I am charged an annual fee. I am.told to go to PayPal through Google Pay. They say the have no such account, but I'm still wbing charged. I've called. Nothing. Why even bother? Such a a scam. So unless I cancel my PayPal, I won't ever get rid of this charge. Worst app ever.it is a scam to misguided you and deduct your money . There is no option for your money back.Not any support and main Point they never inform you before your payment deduction. They only want to make you fool. There is no subscription only fake promises and way to cheat you. I want my money back. You take my money without prior information. You gave no option to cancel it. Big scammer I subscribed for one month and was charged again without my consent. I requested a refund the next day, but customer service kept sending scripted replies about a policy I was never informed of. They didn’t refund the full amount, which was more than double my original payment. The app itself wasn’t helpful and only added more tasks. Very disappointing and feels misleading. I don't recommend that app because it's not a perfect app for change your routine no notification before taking subscription. Just blocked them on revolut as I wasn't sent reminder that amount was being taken from designated account. scam charging!! there's zero info in the description about actual coat other than "in app purchases." not true, its either monthly or yearly payment just to SEE the app. Then they claim to have a no purchase necessary 7-day trial before charging you. LIES! I was charged for an entire year immediately. Given other reviews, I'm not optimistic I'll get my refund. I'm pissed. I would maybe be willing to pay for an app like this, but not with the false advertising money grab! This app is a scam. Don't waste your money; they are just collecting it and refuse refunds when you aren't satisfied. As an English teacher, just the grammer mistakes bother me. Additionally, it's too game-like for me. However, I instantly got an answer that they would not refund me when I asked. That's scammy. You would think they would want happy customers...so I guess I'll just leave this review from an unhappy customer. This is so bad first you get in your hit with questions which is good but before you done all of them you think you can start but NO you have to pay just to get started so they aint helping us they just takeing from us
+[/INST]
+
+Based on the text material above, generate the response to the following quesion or instruction: Can you summarize the negative user reviews for the app "Senior Product Manager" and provide a list of recurring issues that can be fixed?
+
+ [INST]
+You are a senior product manager.
+
+Analyze the negative user reviews below.
+
+Extract recurring issues that can be fixed.
+
+For each issue provide:
+
+Problem:
+User Impact:
+Suggested Fix:
+Severity: High / Medium / Low
+
+Be concise. No fluff.
+
+Reviews:
+shame on trying to make money out of desperate people I love the idea, but I hate the fact you HAVE to pay for it. once a month for something I van do without an app? Ha! NO. not free deleted straight away This app promises more than it provides. when you want to get a refund it's nearly impossible to navigate how to get refunded. There is a different name of the app. associated with the charge. Also, when trying the phone number associated with the charge on my credit card there is a recording that states that they are unable to help via phone too email, but no email. This is another Fraud app.🤨 we don't have to give money to you without money we want it is the bad game ever I am see Pretty good app, but the most irritating app I have EVER downloaded in terms of notifications. It sends me at least 3 notifications a week reminding me to fix my streak, which was broken many months ago, I'm only just now remembering to delete it. The notifications got to be too much. I stopped using it, and after a while it sent a notification sounding all considerate like "since you're not active we will stop sending so many notifications" and then promptly sent 57 million more. Deleted! Another annoying thing is the streaks. Keeping streaks may be motivating to people with ADHD at first, but then you fail it's more discouraging than anything when you get back on and it shows you that day 1 thing every single time you get on. i strongly dislike applications that offer free download but have to pay for all services. this is misleading and disappointing. let people pay for the app upfront if you offer no free services. No the 7 day free trial does not benefit everyone because not everyone has a credit card it needs money, worse for ppl with money problem in your childhood trauma test when it asks us to describe our parents relationship their is only options for : happily married Unhappily married divorced single parent no parents please add an option for those whose parents never got married and instead broke up and is now with other partners. worst app Getting tired and capturing unnecessary matters of neglectfully situations wyd?$O|_!😶‍🌫️ I like this app , but still I don't know how to set alarms, 😕 and I always put my routines and alarms but still I don't know why the alarm doesn't work amd why STILL BEING CHARGED! I tried this & cancelled a year ago! I caught it going through a cc statement. I haven't had the app on this phone, I finally found it in google play with an old email. I want to delete my cc from their payment methods but since I cancelled the subscription (that wasn't supposed to be active) I can't edit payment info without resubscribing. They market towards ADHD people who are less likely to catch this. It's frustrating & disappointing. worst application.. no sense of making such illogical application So many mistakes in this app. Text that's been copied and pasted in a guide but remains the same in each section with a different title, missing words. It's engaging. I fail to see the point of this app. It's a waste of time. I'm not sure what the point of this app is. It's a waste of time. I'm not sure what the point of this app is. It's a waste of time. I'm not sure what the point of this app is. It's a waste of time. I'm not sure what the point of this app is. It's a waste of time. I'm not sure what the point of this app is. It's a waste of time. I'm not sure what the point of this app is. It's a waste of time. I'm not sure what the point of this app is. It's a wideger. The phone number, Please fixes, andevips,easy, meaningful text.merged text. I question.permal.commercial.
+Social.com.com.com. So, theapp.com. Only. Merge. Exten. Issues.
+
+Best.commer.
+
+Dead.commeral.mer.com.com the worst and the app. Theapp
+Product andmer
+No. So | 
+
+
+
+
+
+
+
+products:
+
+
+
+
+products
+
+products.products and contact.mer.coms.compls.
+mermeds.coms.
+s.
+product:bestmers.
+m.mer.
+products.
+products.
+products.
+products.mer.
+products.mer.
+
+products.mermer.
+products.products:
+products:
+products:
+productsidedred:products:products.
+products.
+products.
+products andders and products.merpreds andderspredmermerpmermentspredspspormpredmerpes

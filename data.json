@@ -1,0 +1,46 @@
+{
+  "summary": "Users report severe app technical issues, billing scams, and poor customer service. Multiple reviews highlight privacy concerns, membership cancellation difficulties, and safety risks at Planet Fitness locations.",
+  "pain_points": [
+    {
+      "issue": "App Technical Glitches",
+      "frequency": "High",
+      "example_quote": "Something went wrong with the app post cloud migration, It's not fetching the data, asking for update and wen clicked on update shows nothing to update..."
+    },
+    {
+      "issue": "Billing Scams and Auto-Charges",
+      "frequency": "High",
+      "example_quote": "Billing me month after month and racking up money they say is owed... the app is made that way so that Planet Fitness continues to bill you..."
+    },
+    {
+      "issue": "Privacy Invasions",
+      "frequency": "Medium",
+      "example_quote": "I wouldn't mind paying a few more $, but stealing undisclosed private info is a hard NO."
+    },
+    {
+      "issue": "Membership Cancellation Hassles",
+      "frequency": "High",
+      "example_quote": "You cant cancel or change your home gym in app, you have to go in person and dealing with the employees is sometimes just a headache."
+    },
+    {
+      "issue": "Poor Customer Service",
+      "frequency": "High",
+      "example_quote": "Poor customer service at desk. No help getting started on app. Will not recommend this location in future."
+    },
+    {
+      "issue": "Safety Concerns for Women",
+      "frequency": "Medium",
+      "example_quote": "If youre a woman, do NOT go to this gym. They will remove YOU from the premises and allow perverts to stay."
+    },
+    {
+      "issue": "App Compatibility Issues",
+      "frequency": "Medium",
+      "example_quote": "Why is the app not compatible with my device?????!!!! That's insane! so people have to get new phones to use an app."
+    }
+  ],
+  "actions": [
+    "Prioritize fixing app technical issues and ensuring compatibility with older devices",
+    "Implement transparent billing processes with upfront payment options and eliminate auto-charge penalties",
+    "Enhance security protocols and obtain explicit user consent for data collection"
+  ],
+  "details": "Reviews consistently criticize the app's instability, including data fetching failures and compatibility problems. Billing scams involving automatic charges and hidden fees are major concerns, with users alleging predatory practices. Membership cancellation processes are described as overly cumbersome, requiring in-person interactions. Safety risks, particularly for women, and inadequate customer support further damage trust. The crowd meter feature is deemed unreliable, and lack of gym closure notifications adds to user frustration."
+}
